@@ -12,7 +12,6 @@ def listWithPrefix (x, prefix):
             i = i + 1
     return y
 
-
 x = ["dog", "deer", "deal"]
 print(listWithPrefix(x, "de"))
 print(x)
